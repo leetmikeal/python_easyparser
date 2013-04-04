@@ -11,7 +11,8 @@ USAGE
     python easyparser.py <python script>
 
 
-### If you want to analyte multiple file, can use below shell script.
+### multiple file
+If you want to analyte multiple file, can use below shell script.
 
     #!/bin/bash
     files=(
